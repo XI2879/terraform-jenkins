@@ -1,7 +1,7 @@
 /*provider "aws" {
   region     = "ap-south-1"
-  access_key = "AKIA5RYJ3XNAG4MPRG4A"
-  secret_key = "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"
+  access_key = "*****************"
+  secret_key = "***********************"
 }
 
 resource "aws_instance" "web" {
